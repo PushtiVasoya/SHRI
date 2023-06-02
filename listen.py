@@ -1,5 +1,5 @@
-import speech_recognition as sr
-from googletrans import Translator
+import speech_recognition as sr       # to get audio input and recognize it into text form
+from googletrans import Translator    # to translate hindi to english
 
 # Listen function(Hindi or English)
 # To listen in hindi(as it is then given for translation)
@@ -52,7 +52,7 @@ def Translate_HinToEng(t):
     d=result.text
     print(f"You:{d}")
     return d
-
+# Combining listen and translation functions
 def Execute():
     query=Listen()
     data=Translate_HinToEng(query)
