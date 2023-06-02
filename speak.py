@@ -1,8 +1,5 @@
-#Speak
-# Windows-pip install pyttsx3
-##remove Windows adv-fast,offline   disadv-cannot overspeak,less voice variety
+import pyttsx3   #to convert text to speech
 
-import pyttsx3
 #Speak with printing
 def Speak(t):
     e=pyttsx3.init("sapi5")
@@ -14,6 +11,7 @@ def Speak(t):
     print("")
     e.say(t)
     e.runAndWait()
+    
 #Speak without printing
 def Speako(t):
     e=pyttsx3.init("sapi5")
@@ -24,15 +22,15 @@ def Speako(t):
     print("")
     e.say(t)
     e.runAndWait()
+    
+# basic greetings to user
 def greet():
     Speak("Jai Shree Krishna")
     Speak("What is your name?")
     name=Listeno()
     t=datetime.now()
 
-    #s.Speak("How was your day? How do you feel?")
-    #feel=l.Execute()
-    #add how it feels
+    # checks time to wish accordingly
     if 1<=t.hour<12:
         w="Good Morning"
     elif 12<=t.hour<=16:
