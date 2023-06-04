@@ -38,14 +38,14 @@ To use this voice assistant, you need to install the following Python modules:
 ## Project mentors:
 Prof. Albert Sunny , Prof. Piyush P.Kurur
 
-##Team Members:
+## Team Members:
 1.Pushti Amit Vasoya : https://github.com/PushtiVasoya
-		Codes for the functions ton define the working of SHRI on all commands.
-		Code to invoke SHRI by wake up command
+			Codes for the functions ton define the working of SHRI on all commands.
+			Code to invoke SHRI by wake up command
 2.Berelli Gouthami : https://github.com/Gouthami4
-		Listening and Translation codes
+			Listening and Translation codes
 3.Diksha Prasad : https://github.com/Dikshap0804
-		Speaking and Greeting codes
+			Speaking and Greeting codes
 
 
 
