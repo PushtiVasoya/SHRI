@@ -39,11 +39,11 @@ To use this voice assistant, you need to install the following Python modules:
 Prof. Albert Sunny , Prof. Piyush P.Kurur
 
 ## Team Members:
-1.Pushti Amit Vasoya : https://github.com/PushtiVasoya
+1. Pushti Amit Vasoya : https://github.com/PushtiVasoya
 (Background.py, Functions.py)
-2.Berelli Gouthami : https://github.com/Gouthami4
+2. Berelli Gouthami : https://github.com/Gouthami4
 (listen.py)
-3.Diksha Prasad : https://github.com/Dikshap0804
+3. Diksha Prasad : https://github.com/Dikshap0804
 (speak.py)
 
 
