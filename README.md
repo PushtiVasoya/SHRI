@@ -1,5 +1,5 @@
 # SHRI - A Smart Human Replicating Intelligence
-# An application as part of ID1110  Project at IIT Palakkad.
+An application as part of ID1110  Project at IIT Palakkad.
 # Voice Assistant
 
 This  is a Voice Assistant script written in Python that can listen to voice commands in both Hindi and English. It performs various actions based on the commands and interacts with the user through speech synthesis.
@@ -35,9 +35,10 @@ To use this voice assistant, you need to install the following Python modules:
 
 
 # The Team
-Project mentors:
-Prof.Albert Sunny , Prof. Piyush P.Kurur
-Team Members:
+## Project mentors:
+Prof. Albert Sunny , Prof. Piyush P.Kurur
+
+##Team Members:
 1.Pushti Amit Vasoya : https://github.com/PushtiVasoya
 		Codes for the functions ton define the working of SHRI on all commands.
 		Code to invoke SHRI by wake up command
