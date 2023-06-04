@@ -3,6 +3,7 @@ An application as part of ID1110 Course Project at IIT Palakkad.
 # Voice Assistant
 
 This  is a Voice Assistant script written in Python that can listen to voice commands in both Hindi and English. It performs various actions based on the commands and interacts with the user through speech synthesis.
+- Video: https://github.com/PushtiVasoya/SHRI/assets/133491531/83e2da07-67da-4ba5-ad56-e9f08a16b316
 
 # Installation
 
